@@ -1,5 +1,5 @@
 Project Title:
-Smart Campus Connect
+NEXUS: An Integrated Campus Service and Appointment Management System
 
 Modules:
 1. Authentication
