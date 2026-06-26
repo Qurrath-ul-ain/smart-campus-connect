@@ -24,7 +24,14 @@ function Sidebar() {
           🏠 Dashboard
         </Link>
       </p>
-
+      <p>
+        <Link
+          to="/admin"
+          style={{ color: "white", textDecoration: "none" }}
+        >
+          👨‍💼 Staff Management
+        </Link>
+      </p>
       <p>
         <Link
           to="/availability"
